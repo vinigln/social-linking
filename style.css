@@ -28,6 +28,8 @@ body{
 .box h1{
     font-family: 'Libre Baskerville';
     padding-top: 5px;
+    paddign-left: 5px;
+    paddign-right: 5px;
     margin-top: 0px;
     margin-bottom: 0px;
     padding-bottom: 0px;
@@ -36,8 +38,8 @@ body{
 
 .box button{
     border-radius: 50px;
-    max-width: 400px;
-    min-width: 300px;
+    max-width: 350px;
+    min-width: 250px;
     height: 50px;
     border: none;
     box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.411);
